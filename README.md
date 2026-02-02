@@ -104,11 +104,11 @@ Las contraseñas se guardan encriptadas con AES-256 en `password_vault.encrypted
 ```
 Password-Generator-con-Python/
 ├── passwordmanager.py          # Aplicación principal
-├── background.png              # Fondo del robot verde
+├── background.png              # Fondo del robot Carnage
 ├── icon.png                    # Icono principal (personaje)
 ├── icon.ico                    # Icono para Windows
-├── history_icon.png            # Robot mareado (historial)
-├── vault_icon.png              # Robot militar (bóveda)
+├── history_icon.png            # Fujin (historial)
+├── vault_icon.png              # GL.Patton (bóveda)
 ├── requirements.txt            # Dependencias
 └── README.md                   # Este archivo
 ```
