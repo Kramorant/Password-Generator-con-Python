@@ -2,7 +2,7 @@
 
 Un generador de contraseñas seguro y moderno con interfaz gráfica, historial de sesión y bóveda encriptada.
 
-![Password Generator Screenshot](background.png)
+![Password Generator Screenshot](Password-Generator-con-Python-main/background.png)
 
 ## ✨ Características
 
