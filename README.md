@@ -2,7 +2,7 @@
 
 Un generador de contraseñas seguro y moderno con interfaz gráfica, historial de sesión y bóveda encriptada.
 
-![Password Generator Screenshot](screenshot.png)
+![Password Generator Screenshot](background.png)
 
 ## ✨ Características
 
@@ -18,13 +18,13 @@ Un generador de contraseñas seguro y moderno con interfaz gráfica, historial d
 ## 🖼️ Capturas de pantalla
 
 ### Ventana Principal
-![Main Window](screenshots/main.png)
+![Main Window](Screenshots/main.png)
 
 ### Historial de Contraseñas
-![History](screenshots/history.png)
+![History](Screenshots/history.png)
 
 ### Bóveda de Contraseñas
-![Vault](screenshots/vault.png)
+![Vault](Screenshots/vault.png)
 
 ## 🚀 Instalación
 
