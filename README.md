@@ -125,7 +125,7 @@ Password-Generator-con-Python/
 
 ## 📝 Licencia
 
-Este proyecto es de código abierto bajo la licencia MIT. Ver [LICENSE](LICENSE) para más detalles.
+Este proyecto es de código abierto bajo la licencia MIT. 
 
 ## 👨‍💻 Autor
 
