@@ -138,7 +138,7 @@ Este proyecto es de código abierto bajo la licencia MIT.
 
 ## ⭐ ¿Te gusta el proyecto?
 
-¡Dale una estrella en GitHub! ⭐
+Si por algún motivo te gustó este proyecto agradecería que le des una estrella
 
 ---
 
