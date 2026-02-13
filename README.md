@@ -115,13 +115,7 @@ Password-Generator-con-Python/
 
 ## 🤝 Contribuir
 
-¡Las contribuciones son bienvenidas! Si quieres mejorar el proyecto:
-
-1. Haz un Fork
-2. Crea una rama (`git checkout -b feature/mejora`)
-3. Commit tus cambios (`git commit -m 'Añadir nueva característica'`)
-4. Push a la rama (`git push origin feature/mejora`)
-5. Abre un Pull Request
+Se agradece cualquier contribución, no dudes en abrir un pull request.
 
 ## 📝 Licencia
 
@@ -134,7 +128,6 @@ Este proyecto es de código abierto bajo la licencia MIT.
 ## 🎨 Créditos
 
 - Diseño de robots y fondo pertenecen a sus respectivos autores
-- Proyecto educativo para aprender Python y GUI
 
 ## ⭐ ¿Te gusta el proyecto?
 
